@@ -7,6 +7,10 @@ This project demonstrates a complete **CI/CD pipeline** by automatically deployi
 Whenever changes are pushed to the GitHub repository, the pipeline automatically connects to the EC2 server and deploys the updated application.
 
 ---
+## 🏗️ Architecture Diagram
+![Architecture](screenshots/architecture-diagram.png)
+
+---
 
 ## 🛠️ Tech Stack
 
