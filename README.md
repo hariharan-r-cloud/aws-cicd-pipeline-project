@@ -22,7 +22,7 @@ Whenever changes are pushed to the GitHub repository, the pipeline automatically
 
 ---
 
-## ⚙️ Architecture
+## ⚙️ Deployment Flow
 
 1. Developer pushes code to GitHub
 2. GitHub Actions workflow is triggered
